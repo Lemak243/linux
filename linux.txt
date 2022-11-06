@@ -1,0 +1,16 @@
+﻿Les commande de base de linux 
+
+    • sudo apt-get update nom-logiciel
+    • sudo apt-get upgrade nom-logiciel
+    • sudo apt-cache search nom-logiciel
+    • sudo apt-get install nom-logiciel
+    
+    # Télécharger une distribution linux
+    # commenction à internet et la gestion des applications
+    
+    sudo apt-get update
+    sudo apt-get upgrade
+    apt-cache search xxx
+    sudo apt-get install xxx
+    
+    # navigue sur internet
