@@ -8,9 +8,19 @@
     # Télécharger une distribution linux
     # commenction à internet et la gestion des applications
     
-    sudo apt-get update
-    sudo apt-get upgrade
-    apt-cache search xxx
-    sudo apt-get install xxx
+    ==> sudo apt-get update
+    ==> sudo apt-get upgrade
+    ==> apt-cache search xxx
+    ==> sudo apt-get install xxx
     
-    # navigue sur internet
+    # Utilisation d'une clé USB
+    
+    ==> df -h
+    ==> lsblk
+    
+    # Exploiter un téléphone
+    
+    ==> ip a 
+    ==> ping [URL]
+    
+    
