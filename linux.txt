@@ -23,4 +23,8 @@
     ==> ip a 
     ==> ping [URL]
     
+    # Traiter les médias son, image et vidéo
+    # utiliser des logiciels de création graphique
+    # installation d'un packer indépendant
     
+    ==> sudo dpkg -i lightworks_2021.1_r126716.bed
