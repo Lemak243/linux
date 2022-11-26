@@ -28,3 +28,16 @@
     # installation d'un packer indépendant
     
     ==> sudo dpkg -i lightworks_2021.1_r126716.bed
+
+    # installation de lamp
+
+    Apres avoir Télécharger l'applications, nous allons lui donner des droits pour qu'il puisse s'execuper.
+
+    ==> sudo chmod +x "nom du fichier"
+    ==> sudo ./"nom du fichier"
+    ==> sudo sudo /opt/lampp/php.run
+
+
+    # création d'un raccourci
+
+    ==> ln -s /opt/lampp/htdocs/api/ /home/lemak/Bureau/api
